@@ -1,0 +1,16 @@
+.todo-item-container {
+  border-bottom: 1px solid #eee;
+  display: flex;
+  flex-direction: column;
+  padding: 1rem;
+}
+
+h3 {
+  padding: 0 1rem;
+}
+.completed-button {
+  background-color: rgb(85, 161, 8);
+}
+.remove-button {
+  background-color: rgb(219, 44, 44);
+}

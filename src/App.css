@@ -3,3 +3,12 @@
   font-family: Arial, Helvetica, sans-serif;
   color: #222;
 }
+
+button {
+  border: none;
+  border-radius: 5px;
+  color: #fff;
+  width: 200px;
+  margin: 1rem 0.3rem;
+  padding: 0.5rem;
+}

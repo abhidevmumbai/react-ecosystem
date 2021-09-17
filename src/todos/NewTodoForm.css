@@ -1,0 +1,17 @@
+.new-todo-form {
+  box-shadow: 0 0 5px;
+  border-radius: 5px;
+  display: flex;
+  justify-content: space-between;
+  padding: 1rem;
+}
+
+.new-todo-input {
+  width: 100%;
+  margin: 1rem;
+  padding: 0.5rem;
+}
+
+.new-todo-button {
+  background-color: rgb(0, 102, 255);
+}
